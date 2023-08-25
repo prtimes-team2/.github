@@ -13,7 +13,9 @@
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)　TypeScript
 ### フレームワーク
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)　　React
-　### デプロイ
+### UI
+[![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)　　MaterialUI  
+### デプロイ
  [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)　　React
  
 [Mapbox GL JS](https://www.mapbox.com/)  
@@ -24,22 +26,24 @@
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)　Php
 ### デプロイ
 [![My Skills](https://skillicons.dev/icons?i=heroku)](https://skillicons.dev)　heroku  
-###　データベース
+### データベース
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)　　mySQL  
 [clearDB](https://elements.heroku.com/addons/cleardb) 
 
-[レンダリング済みサイト](https://app-front-bice.vercel.app/app/home)
-[デプロイ済みAPI]（https://prtimes-team2-b703f014fed0.herokuapp.com/)
+## サイト一覧
+[レンダリング済みサイト](https://app-front-bice.vercel.app/app/home)  
+[デプロイ済みAPI](https://prtimes-team2-b703f014fed0.herokuapp.com/)
 
 # Feature
 - Lineログインによる強固なセキュリティ認証
 - 投稿や質問によるコインの増減
-- firebaseによる画像管理と投稿
+- firebaseによる画像管理と投稿 etc...
 
 # 進捗管理について
 - [プロジェクトボード](https://github.com/orgs/prtimes-team2/projects/1/views/2)
 
 # 各種リンク(チームメンバー向け)
-- [Figma](https://www.figma.com/file/nkXYgSGtDgjDjAmAbVxbZZ/PRtimes-team2)
+- [Figma](https://www.figma.com/file/nkXYgSGtDgjDjAmAbVxbZZ/PRtimes-team2)  
 - [hackmd](https://hackmd.io/Wfs5FXkxS0KHi7-CGW2CkA)
 
 # サービス概要
