@@ -23,7 +23,7 @@
 ### メイン言語
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)　Php
 ### デプロイ
-[![My Skills](https://skillicons.dev/icons?i=heroku)](https://skillicons.dev)　heroku
+[![My Skills](https://skillicons.dev/icons?i=heroku)](https://skillicons.dev)　heroku  
 ###　データベース
 [clearDB](https://elements.heroku.com/addons/cleardb) 
 
